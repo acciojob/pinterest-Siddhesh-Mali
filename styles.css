@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.card{
+    width: 550px;
+    height: 250px;
+    box-shadow: 1px 1px 10px 1px ;
+}
+#img{ 
+    height: 250px;
+   
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#text{
+    font-size: xx-small;
+    padding: 5px;
+    
+
+}
+#btn{
+    all: unset;
+    background-color: #e32727;
+    color: #fff;
+    padding: 5px;
+    font-size: 8px;
+}
